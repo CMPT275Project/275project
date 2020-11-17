@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.println("testtestt0000est");
+        System.out.println("testtestt02222000est");
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection con=DriverManager.getConnection(
